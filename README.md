@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 The objective is to analyze loan data to uncover patterns in loan issuance and identify potential business insights that can drive strategic decision-making.
 A large online loan marketplace, facilitating personal loans, business loans,  wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. 
 
